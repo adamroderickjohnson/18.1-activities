@@ -44,7 +44,7 @@ align-items: center;
 - space-around
 - space-evenly
 */
-justify-content: flex-end;
+justify-content: center;
 
 }
 .perfectlyCentered {
@@ -53,5 +53,6 @@ justify-content: flex-end;
 - Then type out the css property align-items: center;
 - Reload the browser and see for yourslef that your item is perfectly centered!
 */
-
+align-items: center;
+justify-content: center;
 }
